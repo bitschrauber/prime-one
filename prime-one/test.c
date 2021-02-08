@@ -6,3 +6,4 @@
 //
 
 #include "test.h"
+int a =0;
